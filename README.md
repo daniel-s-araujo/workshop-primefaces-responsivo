@@ -1,2 +1,2 @@
-# workshop-primefaces-responsivo
+# PrimeFaces Responsivo
 Código fonte do workshop "PrimeFaces Responsivo"
